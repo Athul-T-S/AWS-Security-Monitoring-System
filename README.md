@@ -11,7 +11,6 @@ Secrets Manager ←── CloudTrail ──→ CloudWatch (Log Group → Filter 
                        S3 Bucket
 ```
 
-![Architecture Diagram](architecture.png)
 
 ## How It Works
 
